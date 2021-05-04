@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FbYM+ep87eVLvn0uEIRUf3y60+vftMiNgVIFQ3pXEseh8JYLu6ozupo1LK40UsSq21ADw4sQsmxCzS3YXwCCqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kapeduru\\Source\\repos\\rebuildAp\\rebuildAp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kapeduru\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kapeduru\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\5.0.5\\microsoft.netcore.app.runtime.linux-x64.5.0.5.nupkg.sha512",
+    "C:\\Users\\kapeduru\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\5.0.5\\microsoft.aspnetcore.app.runtime.linux-x64.5.0.5.nupkg.sha512",
+    "C:\\Users\\kapeduru\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\5.0.5\\microsoft.netcore.app.host.linux-x64.5.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

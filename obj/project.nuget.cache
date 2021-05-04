@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jQTtTL0GVM6R8yL4bs9E8BMiWmWwOs6oz1k01B3wd/lH8WiofrwnRY8Lhpg43rDVcQZ+y/BwvCZa0AsHPmegZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kapeduru\\Source\\repos\\rebuildAp\\rebuildAp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kapeduru\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
